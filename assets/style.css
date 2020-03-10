@@ -1,8 +1,18 @@
-/* Coupled with footer, hopefully sticks to the bottom of the page */
+/* Coupled with footer, creates page height to stick footer to the bottom of the page */
+
+html, body {
+    height: 100%;
+}
 
 body {
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
+
+.content {
+    flex: 1 0 auto;
+}
+
 
 /* Pushes the brand/name to full width at nav below it at certain window sizes */
 
@@ -14,13 +24,9 @@ body {
   }
 
 
-/* Attempts to get the footer to stick to the bottom */
+/* Places footer on the bottom of the page and adds height */
 
 .footer {
-    position: sticky;
-    clear: both;
-    bottom: 0;
-    width: 100%;
-    line-height: 80px;
-    margin-top: 100px;
+    flex-shrink: 0;
+    padding: 20px 0px;
 }
