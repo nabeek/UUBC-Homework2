@@ -1,7 +1,10 @@
+/* Coupled with footer, hopefully sticks to the bottom of the page */
+
 body {
     height: 100vh;
 }
 
+/* Pushes the brand/name to full width at nav below it at certain window sizes */
 @media only screen and (max-width: 767px) {
     a.myName {
         margin-right: 0;
@@ -9,6 +12,8 @@ body {
     }
   }
 
+
+/* Attempts to get the footer to stick to the bottom */
 
 .footer {
     position: sticky;
