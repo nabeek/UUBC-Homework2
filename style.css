@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+}
+
+@media only screen and (max-width: 767px) {
+    a.myName {
+        margin-right: 0;
+        width: 100%;
+    }
+  }
+
+.footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
+
+/*.footer {
+    position: sticky;
+    clear: both;
+    bottom: 0;
+    width: 100%;
+    line-height: 80px;
+    margin-top: 100px;
+}
