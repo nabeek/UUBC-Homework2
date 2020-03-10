@@ -6,10 +6,6 @@ Create a responsive portfolio and utilize GitHub for change control, found at: h
 
 After Bootstrap exposure in class, utilize a library and some custom CSS to build a responsive website. Students were provided images of the finished website and asked to replicate as close as possible.
 
-# Build Status
-
-[![Build Status](https://travis-ci.com/nabeek/UUBC-Homework2.svg?branch=master)](https://travis-ci.com/nabeek/UUBC-Homework2)  *(troubleshooting build status)*
-
 # Screenshot
 ![A webpage screenshot](https://github.com/nabeek/UUBC-Homework2/blob/master/assets/Screen%20Shot.png)
 
