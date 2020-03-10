@@ -8,7 +8,7 @@ After Bootstrap exposure in class, utilize a library and some custom CSS to buil
 
 # Build Status
 
-[![Build Status](https://travis-ci.com/nabeek/UUBC-Homework2.svg?branch=master)](https://travis-ci.com/nabeek/UUBC-Homework2) *troubleshooting status image*
+[![Build Status](https://travis-ci.com/nabeek/UUBC-Homework2.svg?branch=master)](https://travis-ci.com/nabeek/UUBC-Homework2)  *(troubleshooting build status)*
 
 # Screenshot
 ![A webpage screenshot](https://github.com/nabeek/UUBC-Homework2/blob/master/assets/Screen%20Shot.png)
