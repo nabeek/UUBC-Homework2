@@ -5,6 +5,7 @@ body {
 }
 
 /* Pushes the brand/name to full width at nav below it at certain window sizes */
+
 @media only screen and (max-width: 767px) {
     a.myName {
         margin-right: 0;
